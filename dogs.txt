@@ -2,3 +2,4 @@ These are the names of some dogs:
 Hermes
 Halcyon
 Hera
+Hector
